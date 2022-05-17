@@ -2,7 +2,7 @@
 
 <h2>Introduction</h2>
 
-Hi there! I’m Aditya Kulkarni (also go by “Adi”) and at the time of writing I am going into my senior year of high school in Eden Prairie, Minnesota. 
+Hi there! I’m Aditya Kulkarni (also go by “Adi”) and at the time of writing I am going into my senior year of high school in Eden Prairie, Minnesota. *UPDATE*: I will be going to New Haven in the fall to begin my undergraduate journey at Yale University!
 
 I first started my journey in coding at around 2nd grade. I remember my dad one day showing me a game on Angry Birds on his new touchscreen smart phone, which was a big deal at the time. From then on, I was fascinated with new technology. During the winter of that same year, our school introduced us to the “Hour of Code” program which soon became an annual week-long event to introduce young elementary students to block coding. I was amazed about the things I could do just by dragging and stacking blocks within a blank space environment.
 
